@@ -12,7 +12,7 @@
   {
     "name": "Modern Data Architecture in AWS",
     "desc": "End-to-end Data platform in AWS",
-    "image": "dataplatform",
+    "image": "awsdataplatform",
     "category": "data",
     "links": {
       "view": "https://github.com/irish-luong/data_engineering_on_aws/blob/master/aws_pipeline.png",

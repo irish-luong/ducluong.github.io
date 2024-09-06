@@ -8,6 +8,14 @@
         "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
     },
     {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=100&id=6Q2SAdhaPhXM&format=png&color=000000"
+    },
+    {
+        "name": "Data Science",
+        "icon": "https://img.icons8.com/?size=100&id=117496&format=png&color=000000"
+    },
+    {
         "name": "Kubernetes",
         "icon": "https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"
     },
@@ -34,6 +42,10 @@
     {
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "GCP",
+        "icon": "https://img.icons8.com/?size=100&id=hFJUPuQ-CF0p&format=png&color=000000"
     },
     {
         "name": "Docker",
