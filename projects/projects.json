@@ -23,10 +23,20 @@
     "name": "MLOps for EDTech Project",
     "desc": "End-to-end MLOps pipeline with Airflow and MLFlow",
     "image": "mlops_edtech",
-    "category": "mlops",
+    "category": "ml",
     "links": {
       "view": "https://github.com/irish-luong/MLOPS-EDTech_Project/blob/master/end2end_pipeline.png",
       "code": "https://github.com/irish-luong/MLOPS-EDTech_Project"
+    }
+  },
+  {
+    "name": "CNN Melanoma Detection Casestudy",
+    "desc": "Build a multiclass classification model using a custom convolutional neural network in TensorFlow.",
+    "image": "cnn",
+    "category": "ml",
+    "links": {
+      "view": "https://github.com/irish-luong/CNN-melanoma-detection-casestudy/blob/master/ducluong_nn.ipynb",
+      "code": "https://github.com/irish-luong/CNN-melanoma-detection-casestudy/tree/master"
     }
   },
   {
