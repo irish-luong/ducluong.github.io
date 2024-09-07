@@ -3,7 +3,7 @@
     "name": "Real-time Public Transportation System",
     "desc": "Process data in real-time by building fluency in modern data engineering tools, such as Apache Spark, Kafka, Spark Streaming, and Kafka Streaming.",
     "image": "realtimestreaming",
-    "category": "data",
+    "category": "data_engineering",
     "links": {
       "view": "https://github.com/irish-luong/streaming-optimizing-public-transportation/blob/master/images/diagram.png",
       "code": "https://github.com/irish-luong/streaming-optimizing-public-transportation"
@@ -13,10 +13,50 @@
     "name": "Modern Data Architecture in AWS",
     "desc": "End-to-end Data platform in AWS",
     "image": "awsdataplatform",
-    "category": "data",
+    "category": "data_architecture",
     "links": {
       "view": "https://github.com/irish-luong/data_engineering_on_aws/blob/master/aws_pipeline.png",
       "code": "https://github.com/irish-luong/DE-data_engineering_summary"
+    }
+  },
+  {
+    "name": "MLOps for EDTech Project",
+    "desc": "End-to-end MLOps pipeline with Airflow and MLFlow",
+    "image": "mlops_edtech",
+    "category": "mlops",
+    "links": {
+      "view": "https://github.com/irish-luong/MLOPS-EDTech_Project/blob/master/end2end_pipeline.png",
+      "code": "https://github.com/irish-luong/MLOPS-EDTech_Project"
+    }
+  },
+  {
+    "name": "Spark ETL Application Boilerplate with Java",
+    "desc": "Spark ETL Application Boilerplate with Java and Spring",
+    "image": "sparkjavaboilerplate",
+    "category": "programing",
+    "links": {
+      "view": "https://github.com/irish-luong/spark-etl-boilerplate/blob/main/static/UML-sequence-diagram.png",
+      "code": "https://github.com/irish-luong/spark-etl-boilerplate"
+    }
+  },
+  {
+    "name": "ETL data with Scala",
+    "desc": "Spark ETL with Scala",
+    "image": "scala",
+    "category": "programing",
+    "links": {
+      "view": "hhttps://github.com/irish-luong/hado-hado/blob/master/spark-app/README.md",
+      "code": "https://github.com/irish-luong/hado-hado/tree/master/spark-app"
+    }
+  },
+  {
+    "name": "Data Engineering Fundamental",
+    "desc": "Summary fundamental skills, knowledge of a Data Engineer. Strengthen theory by practical exercises.",
+    "image": "dataflow",
+    "category": "data_engineering",
+    "links": {
+      "view": "https://github.com/irish-luong/DE-data_engineering_summary/blob/master/README.md",
+      "code": "https://github.com/irish-luong/DE-data_engineering_summary/blob/master/README.md"
     }
   }
 ]
