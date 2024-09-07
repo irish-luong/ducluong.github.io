@@ -68,5 +68,15 @@
       "view": "https://github.com/irish-luong/DE-data_engineering_summary/blob/master/README.md",
       "code": "https://github.com/irish-luong/DE-data_engineering_summary/blob/master/README.md"
     }
+  },
+  {
+    "name": "Enterprise Data Governance Use Case",
+    "desc": "Design a data governance solution for a manufactoring compay.",
+    "image": "datagovernance",
+    "category": "data_architecture",
+    "links": {
+      "view": "https://docs.google.com/presentation/d/1ssocoys6ZR2q8df8HzbpvmGgP9yFl5h2/edit#slide=id.p9",
+      "code": "https://github.com/irish-luong/data-architect-projects/blob/master/data-governance/EMD.pdf"
+    }
   }
 ]
